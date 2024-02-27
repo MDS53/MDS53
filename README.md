@@ -19,9 +19,6 @@ In this repository, I share my journey and expertise in the field of data scienc
 
 Here's a list of some of the projects you'll find in this repository:
 
-# Projects Showcase
-
-Welcome to my GitHub profile! Here you'll find a collection of projects that showcase my skills and experiences. Below are brief descriptions of some of my projects:
 
 ## 1. YouTube Content Scraper
 
